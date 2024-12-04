@@ -1,4 +1,4 @@
-# testrepo
+# IBM Capstone Project
 
 ##Editing the file
 
